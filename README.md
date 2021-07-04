@@ -14,4 +14,4 @@ Backlog - create tests.
 
 Credits - few unknown online github  projects for kickstart.
 
-View our new work at https://cakexpo.com
+View our new work at https://www.cakexpo.com/cake-delivery-in-pune/
